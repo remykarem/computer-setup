@@ -15,3 +15,5 @@ Existing | Replacement
 `ls`     | `lsd`, `exa`
 `grep`   | `ripgrep`
 `jq`     | `jless`
+`find`   | `fd`
+(search) | `fzf`
