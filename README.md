@@ -6,7 +6,7 @@
 * Shell prompt: Starship/Fig
 * Package manager: brew
 * Git - Install with Xcode
-* Git commit signing: https://gist.github.com/danieleggert/b029d44d4a54b328c0bac65d46ba4c65
+* Git commit signing using GPG: https://gist.github.com/danieleggert/b029d44d4a54b328c0bac65d46ba4c65
 
 Existing | Replacement
 -------- | ------------
@@ -17,6 +17,8 @@ Existing | Replacement
 `jq`     | `jless`
 `find`   | `fd`
 (search) | `fzf`
+
+## Languages
 
 ### Java
 
@@ -33,3 +35,9 @@ https://www.rust-lang.org/tools/install
 ### Node
 
 https://nodejs.org/en/download/
+
+## Crontab
+
+<>
+
+## Aliases and env variables
