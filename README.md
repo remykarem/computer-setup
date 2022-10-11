@@ -24,7 +24,7 @@ Existing | Replacement
 
 Java SDKs are stored in `~/Library/Java/JavaVirtualMachines` or `/Library/Java/JavaVirtualMachines`.
 
-`/usr/bin/java` looks for `JAVA_HOME`.
+`/usr/bin/java` looks for `JAVA_HOME`. Otherwise it will look for the JDK with the highest version.
 
 Download different JDKs:
 * Manually
