@@ -57,3 +57,12 @@ https://nodejs.org/en/download/
 [push]
   autoSetupRemote = true  # no more git push -u origin main stuff
 ```
+
+## Applications
+
+* Rectangle
+* Unsplash
+* Clipy
+* Postman
+* Wireless@SG
+
