@@ -33,7 +33,7 @@ Download different JDKs:
 
 Env manager
 * jenv
-* JAVA_HOME
+* `JAVA_HOME`
 * Auto switch to env based on proj
 
 ### Python
