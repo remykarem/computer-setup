@@ -27,14 +27,14 @@ Java SDKs are stored in `~/Library/Java/JavaVirtualMachines` or `/Library/Java/J
 `/usr/bin/java` looks for `JAVA_HOME`.
 
 Download different JDKs:
-	* Manually
-	* via IntelliJ 
-	* `brew`
+* Manually
+* via IntelliJ 
+* `brew`
 
 Env manager
-	* jenv
-	* JAVA_HOME
-	* Auto switch to env based on proj
+* jenv
+* JAVA_HOME
+* Auto switch to env based on proj
 
 ### Python
 
