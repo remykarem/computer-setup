@@ -22,7 +22,7 @@ Existing | Replacement
 
 ### Java
 
-
+Java SDKs are stored in `~/Library/Java/JavaVirtualMachines`
 
 ### Python
 
