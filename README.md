@@ -1,6 +1,7 @@
 # Setup
 
 * Shell: zsh/fish/nushell
+  * Plugin manager - Fisher (for fish)
 * Terminal emulator: iTerm2
 * Fonts: [FiraCode Nerd Font](https://github.com/ryanoasis/nerd-fonts)
 * Shell prompt: Starship/Fig
