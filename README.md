@@ -35,7 +35,9 @@ Env manager
 * Run `/usr/libexec/java_home <version>`
 * Set `JAVA_HOME` environment variable
 * jenv
-* Auto switch to env based on proj
+
+Auto switch to env based on proj
+* ?
 
 ### Python
 
@@ -47,7 +49,11 @@ https://www.rust-lang.org/tools/install
 
 ### Node
 
-https://nodejs.org/en/download/
+Download node via NVM
+
+Env manager - use NVM
+
+Auto switch to env based on proj:
 
 ```txt
 # NVM stuff
