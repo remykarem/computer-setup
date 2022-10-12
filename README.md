@@ -32,8 +32,9 @@ Download different JDKs:
 * `brew`
 
 Env manager
+* Run `/usr/libexec/java_home <version>`
+* Set `JAVA_HOME` environment variable
 * jenv
-* `JAVA_HOME`
 * Auto switch to env based on proj
 
 ### Python
