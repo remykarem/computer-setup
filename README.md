@@ -52,6 +52,8 @@ https://www.rust-lang.org/tools/install
 
 Download node via NVM
 
+https://github.com/FabioAntunes/fish-nvm includes npm, yarn, npx
+
 Env manager - use NVM
 
 Auto switch to env based on proj:
