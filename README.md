@@ -32,8 +32,10 @@ Download different JDKs:
 * via IntelliJ 
 * `brew`
 
+Utils
+* `/usr/libexec/java_home` to get the list of java versions
+
 Env manager
-* Run `/usr/libexec/java_home <version>`
 * Set `JAVA_HOME` environment variable
 * jenv
 
