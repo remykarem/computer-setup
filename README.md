@@ -84,6 +84,8 @@ add-zsh-hook chpwd load-nvmrc
 load-nvmrc
 ```
 
+Source: https://stackoverflow.com/questions/23556330/run-nvm-use-automatically-every-time-theres-a-nvmrc-file-on-the-directory
+
 ## Crontab
 
 <>
