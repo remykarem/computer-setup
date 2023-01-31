@@ -8,6 +8,7 @@
 * Package manager: brew
 * Git - Install with Xcode
 * Git commit signing using GPG: https://gist.github.com/danieleggert/b029d44d4a54b328c0bac65d46ba4c65
+* OpenSSL 3.*
 
 Existing | Replacement
 -------- | ------------
@@ -41,10 +42,6 @@ Env manager
 
 Auto switch to env based on proj
 * ?
-
-### Python
-
-
 
 ### Rust
 
@@ -115,4 +112,5 @@ Source: https://stackoverflow.com/questions/23556330/run-nvm-use-automatically-e
 * Clipy
 * Postman
 * Wireless@SG
-
+* Proxyman
+* TablePlus
