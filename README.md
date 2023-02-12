@@ -89,6 +89,7 @@ Add crons at by runinng the `crontab -e` command.
 
 ```
 29 9 * * * open -a "Google Chrome" "???"
+ 0 * * * * osascript -e 'display notification "Lorem ipsum dolor sit amet" with title "Title" sound name "Frog"'
 ```
 
 ## Aliases and env variables
