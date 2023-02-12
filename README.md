@@ -85,7 +85,11 @@ Source: https://stackoverflow.com/questions/23556330/run-nvm-use-automatically-e
 
 ## Crontab
 
-<>
+Add crons at by runinng the `crontab -e` command.
+
+```
+29 9 * * * open -a "Google Chrome" "???"
+```
 
 ## Aliases and env variables
 
