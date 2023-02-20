@@ -41,7 +41,7 @@ Env manager
 * jenv
 
 Auto switch to env based on proj
-* ?
+* For fish, refer to https://github.com/jenv/jenv.
 
 ### Rust
 
