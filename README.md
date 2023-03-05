@@ -90,7 +90,6 @@ Add crons at by runinng the `crontab -e` command.
 * Unsplash
 * Clipy
 * Postman
-* Wireless@SG
 * Proxyman
 * TablePlus
 * Cloudflare Warp
