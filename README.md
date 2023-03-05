@@ -93,3 +93,5 @@ Add crons at by runinng the `crontab -e` command.
 * Proxyman
 * TablePlus
 * Cloudflare Warp
+* VS Code
+* IntelliJ
