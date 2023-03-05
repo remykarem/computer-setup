@@ -119,3 +119,4 @@ Add crons at by runinng the `crontab -e` command.
 * Wireless@SG
 * Proxyman
 * TablePlus
+* Cloudflare Warp
