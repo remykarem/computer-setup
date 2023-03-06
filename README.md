@@ -13,6 +13,7 @@
 Existing | Replacement
 -------- | ------------
 `cat`    | `bat`
+`vim`    | `nvim` (Neovim)
 (Finder) | `broot`
 `ls`     | `lsd`
 `grep`   | `ripgrep`
