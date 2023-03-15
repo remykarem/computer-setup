@@ -22,6 +22,12 @@ Existing | Replacement
 `find`   | `fd`
 (search) | `fzf`
 
+`nvim` config (`~/.config/nvim/init.vim`):
+
+```txt
+set number
+```
+
 ## Languages
 
 ### Java
