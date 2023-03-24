@@ -14,7 +14,7 @@ Existing | Replacement
 -------- | ------------
 `cat`    | `bat`
 `vim`    | `nvim` (Neovim)
- -        | `tldr`
+(?)      | `tldr`
 (Finder) | `broot`
 `ls`     | `lsd`
 `grep`   | `ripgrep`
