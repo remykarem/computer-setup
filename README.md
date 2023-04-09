@@ -65,6 +65,13 @@ Env manager - use NVM
 
 Auto switch to env based on proj with this SO [post](https://stackoverflow.com/questions/23556330/run-nvm-use-automatically-every-time-theres-a-nvmrc-file-on-the-directory).
 
+
+### Python
+
+* Install anaconda
+* `conda create <env-name> python=3.10`
+* `conda install jupyter ipython nb_conda_kernels`
+
 ## Crontab
 
 Add crons at by runinng the `crontab -e` command.
