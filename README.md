@@ -36,6 +36,10 @@ Colima
 brew install colima
 ```
 
+```
+brew install docker
+```
+
 Docker Desktop
 
 <see official page>
