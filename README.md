@@ -119,6 +119,10 @@ Add crons at by runinng the `crontab -e` command.
   autoSetupRemote = true  # no more git push -u origin main stuff
 ```
 
+## SSL certs
+
+https://developers.cloudflare.com/cloudflare-one/connections/connect-devices/warp/user-side-certificates/install-cloudflare-cert/
+
 ## Applications
 
 * Rectangle
