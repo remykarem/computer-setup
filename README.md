@@ -88,6 +88,12 @@ Auto switch to env based on proj with this SO [post](https://stackoverflow.com/q
 
 ### Python
 
+Poetry
+
+`brew install poetry` and hope that it's in your PATH.
+
+Anaconda
+
 * Install anaconda
 * `conda create <env-name> python=3.10`
 * `conda install jupyter ipython nb_conda_kernels`
