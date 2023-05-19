@@ -28,6 +28,13 @@ Existing | Replacement
 set number
 ```
 
+`bat` config (`~/.config/bat/config`, found from `bat --config-file`):
+
+```txt
+# No need all those line numbers
+--style plain
+```
+
 ## Docker
 
 Colima
