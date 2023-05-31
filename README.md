@@ -35,6 +35,23 @@ set number
 --style plain
 ```
 
+## Shell aliases
+
+`~/.config/fish/config.fish` for fish
+
+fish:
+
+```txt
+starship init fish | source
+
+set -gx PATH "$HOME/.cargo/bin" $PATH
+
+set PATH $HOME/.jenv/bin $PATH
+status --is-interactive; and jenv init - | source
+
+alias g=git
+```
+
 ## Docker
 
 Colima
