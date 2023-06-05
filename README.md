@@ -19,6 +19,7 @@ Existing | Replacement
 `ls`     | `lsd`
 `grep`   | `ripgrep`
 `jq`     | `jless`
+-        | `yq`
 `find`   | `fd`
 (search) | `fzf`
 
