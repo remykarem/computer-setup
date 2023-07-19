@@ -161,3 +161,4 @@ Add crons at by runinng the `crontab -e` command.
 * Cloudflare Warp
 * VS Code
 * IntelliJ
+* `qrencode`
