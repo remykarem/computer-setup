@@ -162,3 +162,4 @@ Add crons at by runinng the `crontab -e` command.
 * VS Code
 * IntelliJ
 * `zbar`, `qrencode`
+* `coreutils` (it has many stuff like `basenc`)
