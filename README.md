@@ -19,7 +19,7 @@ Existing | Replacement
 `ls`     | `lsd`
 `grep`   | `ripgrep`
 `jq`     | `jless`
--        | `yq`
+(?)      | `yq`
 `find`   | `fd`
 (search) | `fzf`
 
@@ -138,16 +138,16 @@ Add crons at by runinng the `crontab -e` command.
 
 ```toml
 [alias]
-	f = fetch
-	co = checkout
-	br = branch
-	lg = log --graph --abbrev-commit --decorate --format=format:'%C(bold blue)%h%C(reset) - %C(bold green)(%ar)%C(reset) %C(white)%s%C(reset) %C(dim white)- %an%C(reset)%C(bold yellow)%d%C(reset)' --all
+f = fetch
+co = checkout
+br = branch
+lg = log --graph --abbrev-commit --decorate --format=format:'%C(bold blue)%h%C(reset) - %C(bold green)(%ar)%C(reset) %C(white)%s%C(reset) %C(dim white)- %an%C(reset)%C(bold yellow)%d%C(reset)' --all
 
 [init]
-	defaultBranch = main
+defaultBranch = main
   
 [push]
-  autoSetupRemote = true  # no more git push -u origin main stuff
+autoSetupRemote = true  # no more git push -u origin main stuff
 ```
 
 ## Applications
