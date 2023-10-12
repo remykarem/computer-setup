@@ -154,7 +154,7 @@ autoSetupRemote = true  # no more git push -u origin main stuff
 
 * Rectangle
 * Unsplash
-* Clipy
+* Maccy
 * Postman
 * Proxyman
 * TablePlus
