@@ -7,7 +7,10 @@
 * Shell prompt: Starship/Fig
 * Package manager: brew
 * Git - Install with Xcode
-* Git commit signing using GPG: https://gist.github.com/danieleggert/b029d44d4a54b328c0bac65d46ba4c65
+* Git commit signing using GPG:
+  * https://gist.github.com/danieleggert/b029d44d4a54b328c0bac65d46ba4c65
+  * https://www.jetbrains.com/help/idea/set-up-GPG-commit-signing.html
+  * https://docs.github.com/en/authentication/managing-commit-signature-verification/adding-a-gpg-key-to-your-github-account
 * OpenSSL 3.*
 
 Existing | Replacement
