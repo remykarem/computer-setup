@@ -12,6 +12,11 @@
   * https://www.jetbrains.com/help/idea/set-up-GPG-commit-signing.html
   * https://docs.github.com/en/authentication/managing-commit-signature-verification/adding-a-gpg-key-to-your-github-account
 * OpenSSL 3.*
+* AWS
+
+  ```sh
+  brew install awscli
+  ```
 
 Existing | Replacement
 -------- | ------------
