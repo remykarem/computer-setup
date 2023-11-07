@@ -158,6 +158,12 @@ defaultBranch = main
 autoSetupRemote = true  # no more git push -u origin main stuff
 ```
 
+## Environment variables
+
+```sh
+export GPG_TTY=$(tty)
+```
+
 ## Applications
 
 * Rectangle
