@@ -1,10 +1,10 @@
 # Setup
 
-* Shell: zsh/fish/nushell
-  * Plugin manager - Fisher (for fish)
+* Shell: zsh
+  * Theme: [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
+  * Shell prompt: [Starship](https://starship.rs)
 * Terminal emulator: iTerm2
 * Fonts: [FiraCode Nerd Font](https://github.com/ryanoasis/nerd-fonts)
-* Shell prompt: Starship/Fig
 * Package manager: brew
 * Git - Install with Xcode
 * Git commit signing using GPG:
