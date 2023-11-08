@@ -44,6 +44,8 @@
   region = ap-southeast-1
   ```
 
+  Set default profile in the `export AWS_PROFILE=...`
+
 Existing | Replacement
 -------- | ------------
 `cat`    | `bat`
