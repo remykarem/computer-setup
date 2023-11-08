@@ -30,6 +30,19 @@
   brew install awscli
   ```
 
+  `~/.aws/credentials`
+
+  ```toml
+  [some-profile-name]
+  ```
+
+  `~/.aws/config`
+
+  ```toml
+  [default]
+  region = ap-southeast-1
+  ```
+
 Existing | Replacement
 -------- | ------------
 `cat`    | `bat`
