@@ -3,6 +3,7 @@
 * Shell: zsh
   * Theme: [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
   * Shell prompt: [Starship](https://starship.rs)
+  * Syntax highlighting: [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)
 * Terminal emulator: iTerm2
 * Fonts: [FiraCode Nerd Font](https://github.com/ryanoasis/nerd-fonts)
 * Package manager: brew
