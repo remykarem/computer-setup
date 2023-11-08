@@ -15,7 +15,7 @@
   # Get the secret key value
   gpg2 --list-secret-keys | grep ^sec
   git config --global user.signingkey {secret-value}
-  git config --global gpg.program $(which gpg2)
+  git config --global gpg.program $(which gpg)
   # Sign everything by default
   git config --global commit.gpgsign true
   echo "no-tty" >> ~/.gnupg/gpg.conf
