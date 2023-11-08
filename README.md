@@ -8,9 +8,21 @@
 * Package manager: brew
 * Git - Install with Xcode
 * Git commit signing using GPG:
-  * https://gist.github.com/danieleggert/b029d44d4a54b328c0bac65d46ba4c65
-  * https://www.jetbrains.com/help/idea/set-up-GPG-commit-signing.html
-  * https://docs.github.com/en/authentication/managing-commit-signature-verification/adding-a-gpg-key-to-your-github-account
+
+  ```sh
+  # Assumes homebrew and existing key-pair
+  brew install pinentry-mac
+  # Get the secret key value
+  gpg2 --list-secret-keys | grep ^sec
+  git config --global user.signingkey {secret-value}
+  git config --global gpg.program $(which gpg2)
+  # Sign everything by default
+  git config --global commit.gpgsign true
+  echo "no-tty" >> ~/.gnupg/gpg.conf
+  echo $(which pinentry-mac) >> ~/.gnupg/gpg-agent.conf
+  ```
+
+  Taken from [Signing Commits in Git](https://nathanielhoag.com/blog/2016/09/05/signing-commits-in-git/). To use with IntelliJ, see [here](https://www.jetbrains.com/help/idea/set-up-GPG-commit-signing.html). GitHub docs [here](https://docs.github.com/en/authentication/managing-commit-signature-verification/adding-a-gpg-key-to-your-github-account).
 * OpenSSL 3.*
 * AWS
 
