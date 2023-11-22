@@ -138,11 +138,7 @@ https://www.rust-lang.org/tools/install
 
 ### Node
 
-Download node via NVM
-
-https://github.com/FabioAntunes/fish-nvm includes npm, yarn, npx
-
-Env manager - use NVM
+Download node via NVM (Homebrew)
 
 Auto switch to env based on proj with this SO [post](https://stackoverflow.com/questions/23556330/run-nvm-use-automatically-every-time-theres-a-nvmrc-file-on-the-directory).
 
