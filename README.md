@@ -194,4 +194,5 @@ autoSetupRemote = true  # no more git push -u origin main stuff
 * VS Code
 * IntelliJ
 * `zbar`, `qrencode`
+* 1Password
 * `coreutils` (it has many stuff like `basenc`)
