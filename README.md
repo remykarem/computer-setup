@@ -101,7 +101,10 @@ brew install colima
 brew install docker
 ```
 
+```
 brew install docker-compose
+```
+
 https://formulae.brew.sh/formula/docker-compose
 https://stackoverflow.com/a/74413229/4570466
 
