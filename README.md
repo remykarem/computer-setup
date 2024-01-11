@@ -5,6 +5,9 @@
   * Shell prompt: [Starship](https://starship.rs)
   * Syntax highlighting: [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)
 * Terminal emulator: iTerm2
+
+  `Ctrl+W` to delete word
+
 * Fonts: [FiraCode Nerd Font](https://github.com/ryanoasis/nerd-fonts)
 * Package manager: brew
 * Git - Install with Xcode
