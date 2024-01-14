@@ -11,6 +11,12 @@
 * Fonts: [FiraCode Nerd Font](https://github.com/ryanoasis/nerd-fonts)
 * Package manager: brew
 * Git - Install with Xcode
+* CMake
+
+  ```sh
+  brew install cmake
+  ```
+  
 * Git commit signing using GPG:
 
   ```sh
