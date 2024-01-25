@@ -6,7 +6,7 @@
   * Syntax highlighting: [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)
 * Terminal emulator: iTerm2
 
-  `Ctrl+W` to delete word
+  For simple text navigation, go to Preferences. **Profiles** > **Keys** > **Key Mappings** > **Presets** and click **Natural Text Editing**
 
 * Fonts: [FiraCode Nerd Font](https://github.com/ryanoasis/nerd-fonts)
 * Package manager: brew
