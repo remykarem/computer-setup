@@ -129,10 +129,12 @@ Java SDKs are stored in `~/Library/Java/JavaVirtualMachines` or `/Library/Java/J
 
 `/usr/bin/java` looks for `JAVA_HOME`. Otherwise it will look for the JDK with the highest version.
 
+Note that not all Java installations are full-featured. Some installations offer only runtime environment. Other have the development features eg. `keytool` to update the trust store.
+
 Download different JDKs:
 * Manually
 * via IntelliJ 
-* `brew`
+* `brew` — eg. `brew install openjdk@11`
 
 Utils
 * `/usr/libexec/java_home` to get the list of java versions
