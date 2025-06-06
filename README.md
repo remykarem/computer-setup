@@ -81,6 +81,15 @@ set number
 --style plain
 ```
 
+## SSH config
+
+For connecting to GitHub via SSH
+
+```
+Host github.com
+   IdentityFile ~/.ssh/my_private_key
+```
+
 ## Shell aliases
 
 `~/.config/fish/config.fish` for fish
@@ -204,7 +213,6 @@ autoSetupRemote = true  # no more git push -u origin main stuff
 ## Applications
 
 * Rectangle
-* Unsplash
 * Maccy
 * Postman
 * Proxyman
