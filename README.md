@@ -150,6 +150,11 @@ Auto switch to env based on proj
 
 https://www.rust-lang.org/tools/install
 
+```toml
+[net]
+git-fetch-with-cli = true
+```
+
 ### Node
 
 Download node via NVM (Homebrew)
