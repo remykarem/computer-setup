@@ -213,6 +213,7 @@ autoSetupRemote = true  # no more git push -u origin main stuff
 ## Applications
 
 * Rectangle
+* Raycast
 * Maccy
 * Postman
 * Proxyman
